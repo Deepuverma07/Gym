@@ -1,4 +1,4 @@
-# EvolveX
+#Fitness 
 <div align="center">
   <img height="200px" width = "200px"  src="logo.jpg" alt="logo">
   <h1>Welcome to the  Fitness Gym website!</h1>
