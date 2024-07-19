@@ -1,7 +1,7 @@
 # EvolveX
 <div align="center">
   <img height="200px" width = "200px"  src="logo.jpg" alt="logo">
-  <h1>Welcome to the EvolveX Fitness Gym website!</h1>
+  <h1>Welcome to the  Fitness Gym website!</h1>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -12,10 +12,9 @@
 5. 💀 [Limitation](#limitation)
 
 ## <a name="links">🔗 Demo</a>
-You can see a live demo of this website [here.](https://harshraj-13.github.io/EvolveX/)
 
 ## <a name="overview">🔗 Overview</a>
-<p>This website aims to provide information about EvolveX Fitness Gym and its various offerings. It utilizes HTML, CSS, and JavaScript to create an interactive user experience.</p>
+<p>This website aims to provide information about  Fitness Gym and its various offerings. It utilizes HTML, CSS, and JavaScript to create an interactive user experience.</p>
 
 ## <a name="features">🔗 Features</a>
 <h4>1. 3D Effects.</h4>
